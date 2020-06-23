@@ -1,0 +1,63 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+.foot {
+	color: white;
+	height: 60px;
+	background:#221E1E;
+	width: 100%; bottom: 0;
+	position: fixed;
+}
+.txt {
+	position: absolute;
+	bottom: 2px; 
+	margin-left: 760px; 
+	font-size: 13px; 
+	color: lightgray;
+}
+.info {
+	width: 1024px; 
+	height: 440px; 
+	background-color: #F9F8F8 ;
+	margin-left: 525px; 
+	margin-top: -433px;
+}
+#URLprice {
+	width: 13rem; 
+	height: 65px; 
+	border-radius: 40px; 
+	font-size: 25px;
+	margin-top: 350px;
+	margin-left: 70px;
+}
+#price {
+	margin-top: 7px;
+	
+
+}
+#secprice {
+	font-size: 40px;
+	margin-left: 295px;
+	margin-top: -55px;
+	
+}
+#RDR {
+font-size: 18px;
+}
+#navbar {
+	font-family: 'Roboto Mono', monospace;
+}
+.vl {
+	border-left: 1px solid lightgrey;
+	height: 439px;
+	margin-left: 600px;
+	margin-top: -415px;
+}
+#description {
+	font-size: 12.5px;
+	max-height: 420px;
+	max-width: 410px;
+	margin-left: 609px;
+	margin-top: -430px;
+	font-family: 'Gothic A1', sans-serif;
+}
